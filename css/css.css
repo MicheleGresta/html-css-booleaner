@@ -4,28 +4,48 @@
     background-color: lightblue;    
     background-repeat: repeat;
     height: 100px;
-    background-image: url("../img/pattern.png");       
-    }
+    background-image: url("../img/pattern.png");       }
     .scritta-pattern{
         height: 60px;
-            margin-top: 35px;    
-    }
+            margin-top: 35px;    }
+
 /* css titolo h1 */
     .font-h1{
         font-family: Georgia, 'Times New Roman', Times, serif ;
-        margin-bottom: 0;
-    }
+        margin-bottom: 0;}
+
 /* css sottotitoli */
 .coloresottotitolo{
-    color: grey;
-    
-}
+    color: grey;}
 .coloresottotitolo-2{
-    color: lightblue;
-}
+    color: lightblue;}
 .coloresottotitolo-3{
     color: grey;
-    font-size: 10px;
+    font-size: 10px;}
+.margine-sottotitolo{margin-top: 0;}
+
+/* per non fare dividere le due immagini */
+.tim-immobile{
+    width: 1011px;}
+#lista-attaccata{    
+    padding-left: 15;   
+}
+
+/* formattazione tabella */
+thead td{
+    background-color: rgb(6, 177, 245);
+    color: white;
 
 }
-.margine-sottotitolo{margin-top: 0;}
+.table-size1 .table-size2{
+    width: 20%;
+}
+.table-size3{
+    width: 60%;
+}
+.sfondo-table{
+    background-color: rgb(111, 181, 241);
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
