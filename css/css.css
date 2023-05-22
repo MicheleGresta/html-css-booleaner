@@ -1,8 +1,8 @@
 /* grandezza pagina */
 .grandezza-pagina{
     width: 1025px;
-    padding-left: auto;
-    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
