@@ -1,0 +1,31 @@
+/* css titolo */
+.sfondo-colore{
+    
+    background-color: lightblue;    
+    background-repeat: repeat;
+    height: 100px;
+    background-image: url("../img/pattern.png");       
+    }
+    .scritta-pattern{
+        height: 60px;
+            margin-top: 35px;    
+    }
+/* css titolo h1 */
+    .font-h1{
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        margin-bottom: 0;
+    }
+/* css sottotitoli */
+.coloresottotitolo{
+    color: grey;
+    
+}
+.coloresottotitolo-2{
+    color: lightblue;
+}
+.coloresottotitolo-3{
+    color: grey;
+    font-size: 10px;
+
+}
+.margine-sottotitolo{margin-top: 0;}
