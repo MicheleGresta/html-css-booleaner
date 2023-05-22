@@ -1,0 +1,86 @@
+/* grandezza pagina */
+.grandezza-pagina{
+    width: 1025px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+/* css titolo */
+.sfondo-colore{
+    
+    background-color: lightblue;    
+    background-repeat: repeat;
+    height: 100px;
+    background-image: url("../img/pattern.png");       }
+    .scritta-pattern{
+        height: 60px;
+            margin-top: 35px;    }
+
+/* css titolo h1 */
+    .font-h1{
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        margin-bottom: 0;}
+
+/* css sottotitoli */
+.coloresottotitolo{
+    color: grey;}
+.coloresottotitolo-2{
+    color: lightblue;}
+.coloresottotitolo-3{
+    color: grey;
+    font-size: 10px;}
+.margine-sottotitolo{margin-top: 0;}
+
+/* per non fare dividere le due immagini */
+.tim-immobile{
+    width: 1011px;}
+#lista-attaccata{    
+    padding-left: 15;   
+}
+
+/* formattazione tabella */
+thead td{
+    background-color: rgb(6, 177, 245);
+    color: white;
+
+}
+.table-size1 .table-size2{
+    width: 20%;
+}
+.table-size3{
+    width: 60%;
+}
+.sfondo-table{
+    background-color: rgb(111, 181, 241);
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+/* footer */
+.scritta-footer{
+    color: grey;
+}
+.monitor-style{background-image: url(../img/monitor.jpg);
+width: 265px;
+height: 205;
+margin-bottom: 10px;
+font-size: 25px;
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.graph-style{background-image: url(../img/graph.jpg);
+    width: 265px;
+    height: 205;
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.margine-scritta{
+    padding-left: 20px;
+    text-align: center;
+    position: relative;
+    top:15px
+}
