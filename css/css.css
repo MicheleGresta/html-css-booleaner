@@ -1,3 +1,11 @@
+/* grandezza pagina */
+.grandezza-pagina{
+    width: 1025px;
+    padding-left: 24%;
+    padding-right: 24%;
+    
+}
+
 /* css titolo */
 .sfondo-colore{
     
@@ -48,4 +56,31 @@ thead td{
 }
 body{
     font-family: 'Times New Roman', Times, serif;
+}
+/* footer */
+.scritta-footer{
+    color: grey;
+}
+.monitor-style{background-image: url(../img/monitor.jpg);
+width: 265px;
+height: 205;
+margin-bottom: 10px;
+font-size: 25px;
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.graph-style{background-image: url(../img/graph.jpg);
+    width: 265px;
+    height: 205;
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.margine-scritta{
+    padding-left: 20px;
+    text-align: center;
+    position: relative;
+    top:15px
 }
