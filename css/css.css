@@ -10,7 +10,7 @@
 .sfondo-colore{
     
     background-color: lightblue;    
-    background-repeat: repeat;
+    background-size: 400px;
     height: 100px;
     background-image: url("../img/pattern.png");       }
     .scritta-pattern{
@@ -40,7 +40,8 @@
 }
 
 /* formattazione tabella */
-thead td{
+table { border-collapse: collapse;}
+thead th{
     background-color: rgb(6, 177, 245);
     color: white;
 
